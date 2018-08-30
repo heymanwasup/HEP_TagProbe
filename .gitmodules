@@ -1,0 +1,3 @@
+[submodule "HEP_pyLib"]
+	path = HEP_pyLib
+	url = git@github.com:heymanwasup/HEP_pyLib.git
